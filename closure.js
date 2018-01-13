@@ -11,6 +11,6 @@ var outerScope = parent;
 
 var innerScope = outerScope();
 
-outerScope();
+console.log(outerScope());
 
 
