@@ -1,7 +1,7 @@
 function parent() {
   var innerVariable = "Go to your room!";
   // console.log(inaccessible)
-  return function child() {
+  return function childe() {
     var inaccessible = "**sneaks out the bedroom window**";
     return inaccessible;
   }
