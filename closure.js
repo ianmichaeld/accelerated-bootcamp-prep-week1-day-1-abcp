@@ -13,4 +13,4 @@ var innerScope = outerScope();
 
 console.log(outerScope());
 
-
+console.log(innerScope());
