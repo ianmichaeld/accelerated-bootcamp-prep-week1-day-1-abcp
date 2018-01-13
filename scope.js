@@ -16,7 +16,7 @@ function setSpeciesVariable() {
 }
 
 function catInfo() {
-  species = 'Fish'
+  var species = 'Fish'
   var name = "Felix"
   var mood = "sleepy"
   console.log("Species is " + species);
