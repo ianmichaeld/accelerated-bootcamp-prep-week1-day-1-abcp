@@ -3,7 +3,7 @@ function parent() {
   // console.log(inaccessible)
   return function childe() {
     var inaccessible = "**sneaks out the bedroom window**";
-    return innerVariable;
+    return inaccessible;
   }
 }
 
