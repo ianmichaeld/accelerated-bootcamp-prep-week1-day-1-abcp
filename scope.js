@@ -26,4 +26,5 @@ function catInfo() {
 
 setSpeciesVariable();
 catInfo();
+dogInfo();
 
