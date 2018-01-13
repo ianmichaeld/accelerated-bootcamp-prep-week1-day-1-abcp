@@ -1,5 +1,5 @@
 function setSpeciesVariable() {
-  species = "dog";
+  var species = "dog";
 }
 
 function dogInfo(){
@@ -11,9 +11,9 @@ function dogInfo(){
 setSpeciesVariable();
 dogInfo();
 
-// function setSpeciesVariable() {
-//   species = "cat"
-// }
+function setSpeciesVariable() {
+  species = "cat"
+}
 
 function catInfo() {
   var name = "Felix"
